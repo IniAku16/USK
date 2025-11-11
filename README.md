@@ -24,14 +24,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## cara clone project
 Langkah-Langkah clone project bila lupa, tehee :
 
-git clone https://github.com/iniAku16/USK.git
-cd USK
-composer install
-cp .env.example .env
-copy .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed UserSeeder
+-git clone https://github.com/iniAku16/USK.git
+-cd USK
+-composer install
+-cp .env.example .env
+-copy .env.example .env
+-php artisan key:generate
+-php artisan migrate
+-php artisan db:seed UserSeeder
 
 ## Learning Laravel
 
